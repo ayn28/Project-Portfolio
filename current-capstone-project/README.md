@@ -1,2 +1,2 @@
 ## Capstone Projects
-I'm currently working on the Telecom customer churn prediction project. Stay tuned for more uploads as I progress on the project!
+I'm currently working on analyzing and visualizing data from a telecommmunications company to build a predictive model that predicts which customers are likely to terminate their subscriptions. Stay tuned for more uploads as I progress on the project!
